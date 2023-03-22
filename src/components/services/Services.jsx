@@ -129,7 +129,7 @@ const Services = () => {
                     <div>
                         <i className="bx bx-trending-up services__icon"></i>
                         <h3 className="services__title">
-                            Business <br /> Inteligence
+                            Business <br /> Intelligence
                         </h3>
                     </div>
 
@@ -141,7 +141,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Business Inteligence (BI)</h3>
+                            <h3 className="services__modal-title">Business Intelligence (BI)</h3>
                             <p className="services__modal-description">
                             Business Intelligence, ou BI, é um conjunto de ferramentas, processos e metodologias que ajudam as empresas a transformar dados brutos em informações valiosas e acionáveis para a tomada de decisões. Ele pode ser usado para monitorar o desempenho de uma empresa em vários níveis, desde o financeiro até o operacional, além de permitir a análise de tendências, identificação de oportunidades e ameaças, e a otimização de processos.
                             </p>

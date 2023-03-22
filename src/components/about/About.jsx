@@ -21,7 +21,7 @@ const About = () => {
                         Desenvolvedor Web (Frontend), crio soluções com interface de usuário UI/UX impactantes, utilizando <b>ReactJS e Material UI</b> como bibliotecas para desenvolvimento dos projetos em qualquer complexibilidade ou escala.
                         <br />
                         <br />
-                        Trabalho também como especialista BI (Business Inteligence), atuando em uma grande variedade de projetos (do simples ao complexo), análises de dados, gerenciamento de KPIs, implatações de ferramentas de inteligência de negócio, automatização de processos, entre outras funções.
+                        Trabalho também como especialista BI (Business Intelligence), atuando em uma grande variedade de projetos (do simples ao complexo), análises de dados, gerenciamento de KPIs, implantações de ferramentas de inteligência de negócio, automatização de processos, entre outras funções.
                         <br /> 
                         <br />                       
                         Com BI, tenho experiência com SQL Server, MariaDB, MongoDB, MySQL, entre outros bancos de dados, desde simples requisições até modelagem física das tabelas, utilizo como ferramenta principal para estruturar/modelar as informações o <b>Power Bi</b>, que atualmente é amplamente adotado pelas empresas para análise e gestão de indicadores.
