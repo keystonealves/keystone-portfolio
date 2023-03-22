@@ -53,6 +53,7 @@
 }
 
 .home__img {
+    border-radius: 50%;
     background: url(../../assets//profile2.jpg);
     background-repeat: no-repeat;
     background-position: center;

@@ -18,6 +18,9 @@
     color: var(--text-color-light);
     margin: 0 var(--mb-1);
     cursor: pointer;
+    padding: 0 20px;
+    margin-top: 10px;
+    border-radius: 1.5rem;
 }
 
 .qualification__button:hover {
@@ -30,6 +33,7 @@
 }
 
 .qualification__active {
+    background-color: rgba(0, 0, 0, 0.05);
     color: var(--title-color-dark);
 }
 
@@ -86,6 +90,8 @@
 
 
 
+
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -109,7 +115,7 @@
     }
 
     .qualification__button {
-        margin: 0 var(--mb-0-75);
+        margin: 10px var(--mb-0-75);
     }
 }
 
