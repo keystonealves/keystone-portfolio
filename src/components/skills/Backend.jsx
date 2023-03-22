@@ -29,8 +29,8 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">SQL</h3>
-                            <span className="skills__level">Intermediário</span>
+                            <h3 className="skills__name">MongoDB</h3>
+                            <span className="skills__level">Avançado</span>
                         </div>
                     </div>
 
@@ -41,16 +41,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">AWS</h3>
-                            <span className="skills__level">Intermediário</span>
-                        </div>
-                    </div>
-
-                    <div className="skills__data">
-                    <i className='bx bx-badge-check'></i>
-
-                        <div>
-                            <h3 className="skills__name">Google Cloud</h3>
+                            <h3 className="skills__name">AWS e Google Cloud</h3>
                             <span className="skills__level">Intermediário</span>
                         </div>
                     </div>
@@ -61,6 +52,15 @@ const Backend = () => {
                         <div>
                             <h3 className="skills__name">APIs</h3>
                             <span className="skills__level">Intermediário</span>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className='bx bx-badge-check'></i>
+
+                        <div>
+                            <h3 className="skills__name">Power BI</h3>
+                            <span className="skills__level">Avançado</span>
                         </div>
                     </div>
 

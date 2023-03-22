@@ -4,7 +4,7 @@ import "./home.css";
 const Data = () => {
     return (
         <div className="home__data">
-            <h3 className="home__title1">Oi, eu sou</h3>
+            <h3 className="home__title1">Olá, eu sou</h3>
             <h1 className="home__title">
                 Keystone
                 {/* <svg
@@ -57,9 +57,9 @@ const Data = () => {
                     ></path>
                 </svg> */}
             </h1>
-            <h3 className="home__subtitle">Web Developer (React)</h3>
+            <h3 className="home__subtitle">Desenvolvedor Web e Business Inteligence</h3>
             <p className="home__description">
-                Um Web Developer criativo, dedicado e apaixonado pelo trabalho, responsável por criar a solução perfeita para o seu projeto!
+                Sou um desenvolvedor web e especialista BI criativo, dedicado e apaixonado pelo trabalho.
             </p>
 
             <a href="#contact" className="button">

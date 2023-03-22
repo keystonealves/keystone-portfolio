@@ -127,9 +127,9 @@ const Services = () => {
             
             <div className="services__content">
                     <div>
-                        <i className="uil uil-edit services__icon"></i>
+                        <i className="bx bx-trending-up services__icon"></i>
                         <h3 className="services__title">
-                            Visual <br /> Designer
+                            Business <br /> Inteligence
                         </h3>
                     </div>
 
@@ -141,44 +141,44 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Visual Designer</h3>
+                            <h3 className="services__modal-title">Business Inteligence (BI)</h3>
                             <p className="services__modal-description">
-                            Técnicas avançadas de "Visual Design" e "Rebranding de Marcas" são fundamentais para destacar a identidade do seu negócio e atrair novos clientes. Tenho a experiência e a criatividade para transformar sua marca e aumentar sua presença no mercado. Alguns dos nossos destaques incluem: desenvolvimento de logotipos, design de landing pages, criação de materiais de marketing e redesign de sites.
+                            Business Intelligence, ou BI, é um conjunto de ferramentas, processos e metodologias que ajudam as empresas a transformar dados brutos em informações valiosas e acionáveis para a tomada de decisões. Ele pode ser usado para monitorar o desempenho de uma empresa em vários níveis, desde o financeiro até o operacional, além de permitir a análise de tendências, identificação de oportunidades e ameaças, e a otimização de processos.
                             </p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                    Transforme sua presença no mercado com um visual inovador.
+                                    Elimina o trabalho manual na coleta e análise de dados, evitando erros e atrasos.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                    Criação de logotipos únicos e impactantes.
+                                    Tomada de decisões com informações assertivas e estratégicas.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                    Redesign de sites para aumentar a conversão e a satisfação do cliente.
+                                    Identificação de problemas e oportunidades rapidamente.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                    Materiais de marketing criativos e impactantes para destacar sua empresa.
+                                    Melhoria da eficiência operacional e otimização de processos.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Landing Pages com alta taxa de conversão.
+                                    Redução de erros e aprimoramento da qualidade dos dados.
                                     </p>
                                 </li>
 

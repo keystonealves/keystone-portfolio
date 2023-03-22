@@ -11,17 +11,17 @@ const Info = () => {
             </div>
 
             <div className="about__box">
-            <i className="bx bx-briefcase-alt about__icon"></i>
+            <i className="bx bx-trending-up about__icon"></i>
 
-                <h3 className="about__title">Trabalhos</h3>
-                <span className="about__subtitle">+12 Projetos Concluídos</span>
+                <h3 className="about__title">Experiência BI</h3>
+                <span className="about__subtitle">+6 Anos<br />Business Inteligence</span>
             </div>
 
             <div className="about__box">
-            <i className="bx bx-support about__icon"></i>
+            <i className="bx bx-briefcase-alt about__icon"></i>
 
-                <h3 className="about__title">Suporte</h3>
-                <span className="about__subtitle">Online 24/7</span>
+                <h3 className="about__title">Trabalhos</h3>
+                <span className="about__subtitle">+10 Projetos Concluídos</span>
             </div>
         </div>
     )

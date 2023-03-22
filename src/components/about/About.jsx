@@ -18,7 +18,13 @@ const About = () => {
 
                     <div className="about__description">
                     <p>
-                        Web Developer Frontend, crio soluções com interface de usuário UI/UX impactantes, utilizando <b>ReactJS</b> como biblioteca para desenvolvimento dos projetos, já conto com vários projetos concluídos e clientes super satisfeitos.
+                        Desenvolvedor Web (Frontend), crio soluções com interface de usuário UI/UX impactantes, utilizando <b>ReactJS e Material UI</b> como bibliotecas para desenvolvimento dos projetos em qualquer complexibilidade ou escala.
+                        <br />
+                        <br />
+                        Trabalho também como especialista BI (Business Inteligence), atuando em uma grande variedade de projetos (do simples ao complexo), análises de dados, gerenciamento de KPIs, implatações de ferramentas de inteligência de negócio, automatização de processos, entre outras funções.
+                        <br /> 
+                        <br />                       
+                        Com BI, tenho experiência com SQL Server, MariaDB, MongoDB, MySQL, entre outros bancos de dados, desde simples requisições até modelagem física das tabelas, utilizo como ferramenta principal para estruturar/modelar as informações o <b>Power Bi</b>, que atualmente é amplamente adotado pelas empresas para análise e gestão de indicadores.
                     </p>
                     <a href="https://github.com/keystonealves/" className="about__github-icon" target={"_blank"} rel="noreferrer">
                         <i className="uil uil-github-alt"></i>
