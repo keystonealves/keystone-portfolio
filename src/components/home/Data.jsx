@@ -57,7 +57,7 @@ const Data = () => {
                     ></path>
                 </svg> */}
             </h1>
-            <h3 className="home__subtitle">Desenvolvedor Web e Business Inteligence</h3>
+            <h3 className="home__subtitle">Desenvolvedor Web e Analista de Dados BI</h3>
             <p className="home__description">
                 Sou um desenvolvedor web e especialista BI criativo, dedicado e apaixonado pelo trabalho.
             </p>
