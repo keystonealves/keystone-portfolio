@@ -18,7 +18,7 @@ const About = () => {
 
                     <div className="about__description">
                     <p>
-                        Desenvolvedor Web (Frontend), crio soluções com interface de usuário UI/UX impactantes, utilizando <b>ReactJS e Material UI</b> como bibliotecas para desenvolvimento dos projetos em qualquer complexibilidade ou escala.
+                        Desenvolvedor Web (Frontend), crio soluções com interface de usuário UI/UX impactantes, utilizando <b>ReactJS, NextJS, Material UI, TailwindCSS</b>, entre outras bibliotecas para desenvolvimento dos projetos em qualquer complexibilidade ou escala.
                         <br />
                         <br />
                         Trabalho também como especialista BI (Business Intelligence), atuando em uma grande variedade de projetos (do simples ao complexo), análises de dados, gerenciamento de KPIs, implantações de ferramentas de inteligência de negócio, automatização de processos, entre outras funções.
